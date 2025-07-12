@@ -26,16 +26,16 @@ Welcome to my GitHub! I'm an aspiring **Data Analyst** who loves turning data in
 
 ## 🔍 Featured Projects
 
-### 🧮 [Customer Churn Prediction (KNIME)](https://github.com/yourusername/data-analytics-portfolio/tree/main/customer-churn-knime)  
+### 🧮 [Customer Churn Prediction (KNIME)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/customer-churn-knime)  
 Built a KNIME workflow to predict customer churn using Logistic Regression, Decision Tree, and Random Forest. Evaluated using ROC and Scorer.
 
-### 📊 [Walmart Sales Dashboard (Power BI)](https://github.com/yourusername/data-analytics-portfolio/tree/main/walmart-powerbi-dashboard)  
+### 📊 [Walmart Sales Dashboard (Power BI)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Walmart%20Sales%20Dashboard)  
 Visualized product-wise and city-wise sales with KPIs, ratings, and payment method analysis in Power BI.
 
-### 🛒 [Grocery Sales Analysis (Python)](https://github.com/yourusername/data-analytics-portfolio/tree/main/grocery-sales-python)  
+### 🛒 [Grocery Sales Analysis (Python)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Grocery%20sales%20prediction)  
 Explored trends in grocery sales using Python (Pandas, Matplotlib) to support stock and promotion planning.
 
-### 📈 [TATA Sales Dashboard (Excel)](https://github.com/AartiBaisla02/data-analytics-portfolio/tree/main/tata-sales-excel)  
+### 📈 [TATA Sales Dashboard (Excel)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/TATA%20Sales%20Dashboard%20(Excel))  
 Segment and state-level revenue dashboard using slicers and pivot charts for strategic insights.
 
 ---
