@@ -10,23 +10,43 @@ Welcome to my Data Analytics portfolio! This space showcases real-world projects
 - **Languages & Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (Joins, CTEs, Aggregations), Excel (Pivot Tables, Formulas, VBA), Power BI (DAX, Data Modeling), Tableau
 - **Techniques:** Data Cleaning, EDA, Dashboarding, Statistical Analysis, Forecasting, Classification Models, Business Insights
 
+
 ---
 
 ## 📁 Featured Projects
 
-### 1. 📊 **Sales Performance Dashboard (Power BI)**
-- **Problem:** How are different regions and product lines contributing to overall sales performance?
-- **Solution:** Built a dynamic Power BI dashboard with slicers, KPIs, and custom visuals.
+### 1. 📊 Walmart Sales Dashboard (Power BI)
+- **Problem:** How are different stores and product categories contributing to overall sales?
+- **Solution:** Built a Power BI dashboard with regional filters, KPIs, and sales trends
 - **Skills Used:** Power BI, DAX, Data Modeling
-- [🔗 Live Dashboard](#) | [📁 .pbix File](link)
+- 📁 [.pbix File]("C:\Users\Aarti Baisla\Desktop\Walmart Sales Dashboard-Power BI.pbix")
 
 ---
 
-### 2. 🔍 **Customer Churn Prediction (KNIME)**
-- **Problem:** Identify churn risk and visualize customer behavior.
-- **Solution:** Performed data wrangling and model building in Python; visualized churn clusters in Tableau.
-- **Skills Used:** Python (Pandas, Scikit-learn), Tableau
-- [📁 Python Notebook](link) | [📊 Tableau Dashboard](#)
+### 2. 🔍 Customer Churn Prediction (KNIME)
+- **Problem:** Identify customers at risk of churn in a telecom dataset
+- **Solution:** Created a KNIME workflow using Logistic Regression, Decision Tree, and Random Forest models; evaluated with ROC and Scorer nodes
+- **Skills Used:** KNIME, Classification, Workflow Design
+- 📁 [KNIME Workflow]("C:\AARTI\Customer churn prediction.epf")
+
+---
+
+### 3. 🛒 Grocery Store Sales Analysis (Python)
+- **Problem:** Explore sales trends for a local grocery store
+- **Solution:** Performed EDA using Python, visualized department-wise and daily sales patterns
+- **Skills Used:** Python (Pandas, Matplotlib)
+- 📁 [Jupyter Notebook]("C:\Users\Aarti Baisla\Downloads\Group project_Grocery price data1.ipynb")
+
+---
+
+### 4. 📈 TATA & FNP Sales Dashboards (Excel)
+- **Problem:** Analyze monthly sales performance for TATA and FlowerAura (FNP)
+- **Solution:** Created interactive dashboards using Excel formulas, pivot tables, and charts
+- **Skills Used:** Excel (Dashboards, Charts, Pivot Tables)
+- 📁 [Excel Files](C:\AARTI\Excel TATA DASHBOARD.xlsx)
+
+---
+
 
 
 ## 📬 Let's Connect
