@@ -65,7 +65,7 @@ Three classification models were built and evaluated:
 ## 📎 Files & Resources
 
 - 🔗 KNIME Workflow File: `customer_churn_knime_workflow.knwf`
-- 🖼️ ![Screenshots of workflow & visualizations](/Screenshot%202025-07-12%20154137.png)  
+- 🖼️ ![Screenshots of workflow & visualizations](https://github.com/AartiBaisla02/Data-analytics-portfolio/blob/main/customer-churn-knime/Screenshot%202025-07-12%20154137.png)  
 
 
 ---
