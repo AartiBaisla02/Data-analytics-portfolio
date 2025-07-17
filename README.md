@@ -35,11 +35,29 @@ Visualized product-wise and city-wise sales with KPIs, ratings, and payment meth
 ### 🛒 [Grocery Sales Analysis (Python)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Grocery%20sales%20prediction)  
 Explored trends in grocery sales using Python (Pandas, Matplotlib) to support stock and promotion planning.
 
-### 📈 [TATA Sales Dashboard (Excel)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/TATA%20Sales%20Dashboard%20(Excel))  
-Segment and state-level revenue dashboard using slicers and pivot charts for strategic insights.
+### 📈 [TATA Sales Dashboard (Excel)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/tata-sales-excel)  
+Segment and state-level revenue dashboard using slicers and pivot charts for strategic insights.  
+**Skills Used:** Excel, Pivot Tables, Formulas, Dashboarding
 
 ---
 
+### ✈️ [Airline Revenue Dashboard (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/airline-revenue-dashboard-tableau)  
+Visualized airline revenue trends and growth across categories to compare performance of two major carriers.  
+**Skills Used:** Tableau, Area Chart, KPI Cards, Growth Trend Analysis
+
+---
+
+### ⚡ [Luminous Sales Performance Dashboard (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/luminous-sales-performance-dashboard)  
+Analyzed sales by region, category, and customer contribution for strategic sales planning and seasonal trend insights.  
+**Skills Used:** Tableau, Calculated Fields, Geo Analysis, Interactive Dashboard Design
+
+---
+
+### 🎮 [Console Games Sales Analysis (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/console-games-sales-analysis-tableau)  
+Assessed console platform performance, sales trends, and genre analysis to guide business entry decision in gaming.  
+**Skills Used:** Tableau, Market Analysis, Storytelling, Pie Charts, Area Charts
+
+---
 ## 🎯 What I'm Looking For
 
 I’m currently looking for opportunities as a **Data Analyst** where I can:
