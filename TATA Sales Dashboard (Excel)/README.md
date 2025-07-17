@@ -30,7 +30,7 @@ This interactive Excel dashboard provides a detailed analysis of TATA’s sales 
 
 - `tata-sales-dashboard.xlsx` – Fully interactive Excel dashboard
 - `images/` – Dashboard screenshot(s)  
-  ![Dashboard Screenshot](./images/tata-dashboard.png)
+  ![Dashboard Screenshot](https://github.com/AartiBaisla02/Data-analytics-portfolio/blob/main/TATA%20Sales%20Dashboard%20(Excel)/Screenshot%202025-07-12%20174000.png)
 
 ---
 
