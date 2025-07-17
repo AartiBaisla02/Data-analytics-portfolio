@@ -29,13 +29,19 @@ Welcome to my GitHub! I'm an aspiring **Data Analyst** who loves turning data in
 ### 🧮 [Customer Churn Prediction (KNIME)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/customer-churn-knime)  
 Built a KNIME workflow to predict customer churn using Logistic Regression, Decision Tree, and Random Forest. Evaluated using ROC and Scorer.
 
+---
+
 ### 📊 [Walmart Sales Dashboard (Power BI)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Walmart%20Sales%20Dashboard)  
 Visualized product-wise and city-wise sales with KPIs, ratings, and payment method analysis in Power BI.
+
+---
 
 ### 🛒 [Grocery Sales Analysis (Python)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Grocery%20sales%20prediction)  
 Explored trends in grocery sales using Python (Pandas, Matplotlib) to support stock and promotion planning.
 
-### 📈 [TATA Sales Dashboard (Excel)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/tata-sales-excel)  
+---
+
+### 📈 [TATA Sales Dashboard (Excel)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/TATA%20Sales%20Dashboard%20(Excel))  
 Segment and state-level revenue dashboard using slicers and pivot charts for strategic insights.  
 **Skills Used:** Excel, Pivot Tables, Formulas, Dashboarding
 
@@ -47,13 +53,13 @@ Visualized airline revenue trends and growth across categories to compare perfor
 
 ---
 
-### ⚡ [Luminous Sales Performance Dashboard (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/luminous-sales-performance-dashboard)  
+### ⚡ [Luminous Sales Performance Dashboard (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Luminous-sales-performance-dashboard)  
 Analyzed sales by region, category, and customer contribution for strategic sales planning and seasonal trend insights.  
 **Skills Used:** Tableau, Calculated Fields, Geo Analysis, Interactive Dashboard Design
 
 ---
 
-### 🎮 [Console Games Sales Analysis (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/console-games-sales-analysis-tableau)  
+### 🎮 [Console Games Sales Analysis (Tableau)](https://github.com/AartiBaisla02/Data-analytics-portfolio/tree/main/Console%20Games%20Sales%20Analysis%20Dashboard)  
 Assessed console platform performance, sales trends, and genre analysis to guide business entry decision in gaming.  
 **Skills Used:** Tableau, Market Analysis, Storytelling, Pie Charts, Area Charts
 
