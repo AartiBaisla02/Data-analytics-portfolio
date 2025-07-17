@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarti Baisla – Data Analyst | Insight Builder | Problem Solver
 
-Welcome to my GitHub! I'm an aspiring **Data Analyst** who loves turning data into clarity. I build dashboards, perform real-world analysis, and solve business problems using tools like **Excel, Power BI, Python, and KNIME**.
+Welcome to my GitHub! I'm an aspiring **Data Analyst** who loves turning data into clarity. I build dashboards, perform real-world analysis, and solve business problems using tools like **Excel, Power BI, Python,Tableau,SQL and KNIME**.
 
 📊 I don't just look at numbers — I uncover patterns, trends, and stories that help businesses make better decisions.
 
