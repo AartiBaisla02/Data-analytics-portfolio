@@ -31,7 +31,7 @@ This interactive Power BI dashboard presents a comprehensive sales analysis for 
 
 - `walmart-sales-dashboard.pbix` – Power BI file (upload to this folder)
 - `images/` – Screenshot(s) of the dashboard  
-  ![Walmart Dashboard](./images/walmart-dashboard.png)
+  ![Walmart Dashboard](Screenshot 2025-07-12 173054.png)
 
 ---
 
